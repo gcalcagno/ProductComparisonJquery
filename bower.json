@@ -22,7 +22,7 @@
   ],
   "ignore": [
     "**/.*",
-    "img",
+    "images",
     "index.html",
     "favicon.ico",
     "fonts"
