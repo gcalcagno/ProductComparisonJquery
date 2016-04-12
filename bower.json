@@ -25,6 +25,7 @@
     "images",
     "index.html",
     "favicon.ico",
-    "fonts"
+    "fonts",
+    "bower.json"
   ]
 }
