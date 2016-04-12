@@ -1,0 +1,30 @@
+
+{
+  "name": "ProductComparisonJquery",
+  "main": "js/main.js",
+  "version": "1.5.5",
+  "homepage": "https://github.com/gcalcagno/https://github.com/gcalcagno/ProductComparisonJquery",
+  "authors": [
+  ],
+  "description": "Product Comparison Layout & Effect",
+  "keywords": [
+    "sliding",
+    "slider",
+    "animation",
+    "jquery-plugin",
+    "ecosystem:jquery"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://tympanus.net/codrops/2015/05/26/product-comparison-layout-effect/"
+    }
+  ],
+  "ignore": [
+    "**/.*",
+    "img",
+    "index.html",
+    "favicon.ico",
+    "fonts"
+  ]
+}
