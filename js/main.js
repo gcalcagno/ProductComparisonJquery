@@ -75,7 +75,7 @@
 			self.remove(item);
 		});
 		
-		var productImageEl = item.querySelector('img.product__image').cloneNode(true);
+		var productImageEl = item.querySelector('.product__image').cloneNode(true);
 
 		preview.appendChild(productImageEl);
 		preview.appendChild(removeCtrl);
