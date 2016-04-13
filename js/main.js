@@ -128,6 +128,8 @@
 			this.compareWrapper.insertBefore(compareItemWrapper, this.compareWrapper.childNodes[0]);
 		}
 
+		window.scrollTo(0, 0);
+
 		setTimeout(function() {
 			// toggle compare basket
 			classie.remove(self.el, 'compare-basket--active');
